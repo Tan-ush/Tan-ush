@@ -1,6 +1,4 @@
-<h1 align="center">Tanush Lahir</h1> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=E07B39&center=true&vCenter=true&width=600&height=30&lines=CS+%2B+Applied+Stats+%40+UofT;Systems%2C+ML%2C+and+backend" alt="Typing animation"/>
-
-<br/><br/>
+<h1 align="center">Tanush Lahir</h1> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=E07B39&center=true&vCenter=true&width=600&height=30&lines=CS+%2B+Applied+Stats+%40+UofT;Systems%2C+ML%2C+and+Backend" alt="Typing animation"/>
 
 <a href="mailto:lahirtanush@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/tanush-lahir/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
